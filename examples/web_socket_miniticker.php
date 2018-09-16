@@ -1,6 +1,6 @@
 <?php
 
-require 'php-binance-api.php';
+require '../php-binance-api.php';
 require 'vendor/autoload.php';
 
 
